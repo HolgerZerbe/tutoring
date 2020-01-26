@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+mysql\ einrichten.odt
+To-Do-List_Course-Summary.odt
+/sass/texte/*
+/javascript/texte/*
+/javascript/tests/*
